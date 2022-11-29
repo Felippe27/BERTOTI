@@ -9,4 +9,4 @@ usuario.Essas heuristicas basicamente incluem:eficácia,usabilidade,controle e s
 
 
 # Heurística 3.3.1 - Identificação de erro
-A identificação do erro é importante para o usuário se guiar e muitas vezes resolver o próprio problema ou compreender que é um erro interno, como o servidor. Um exemplo de aplicação desta heurística é o erro de Chave Pix,quando digitamos alguma letra no teclado errada ou quando a chave nao foi cadastrada pelo contato desejado para finalizar a transferência.
+A identificação do erro é importante para o usuário se guiar e muitas vezes resolver o próprio problema ou compreender que é um erro interno, como o servidor. Um exemplo de aplicação desta heurística é o erro de Chave Pix,quando digitamos alguma letra no teclado errada ou quando a chave nao foi cadastrada pelo contato desejado para finalizar a transaça.
