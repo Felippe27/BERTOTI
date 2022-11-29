@@ -3,7 +3,7 @@
 ## Avaliação Heurística | IHC (Interação Humano Computador) | 3º Semestre ADS
 
 ## Análise heurística (WCAG/W3C)
-Análise heurística e uma técnica de análise de usabilidade que avalia a quantidade de um
+Análise heurística é uma técnica de análise de usabilidade que avalia a quantidade de um
 produto de software a partir de uma lista de heurísticas. Esta lista consiste em princípios
 gerais que ajudam a identificar problemas de usabilidade e facilidade de uso de interfaces de
 usuario.Essas heuristicas basicamente incluem:eficácia,usabilidade,controle e segurança.
