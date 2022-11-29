@@ -5,7 +5,7 @@
 Análise heurística e uma técnica de análise de usabilidade que avalia a quantidade de um
 produto de software a partir de uma lista de heurísticas. Esta lista consiste em princípios
 gerais que ajudam a identificar problemas de usabilidade e facilidade de uso de interfaces de
-usuario.Essas heuristicas basicamente incluem:eficácia,usabilidade,controle e segurança
+usuario.Essas heuristicas basicamente incluem:eficácia,usabilidade,controle e segurança.
 
 # Heurística 1.2.5 - Descriçao de audio (pre -gravadas) 
 A descrição de áudio ou transcrição automática é um recurso que permite que o vídeo seja acompanhado por um texto que segue o diálogo no vídeo. Isso permite que usuários comuns ou com déficit auditivo assistam o vídeo com mais facilidade mesmo sem ouvir o áudio.
