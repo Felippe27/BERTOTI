@@ -19,7 +19,7 @@ Permita que os conteúdos sejam exibidos exibidos na tela por tempo suficiente p
 ![WhatsApp Image 2022-11-29 at 11 40 00](https://user-images.githubusercontent.com/72941469/204559038-5fbbd737-6a51-465a-b238-2fe375362359.jpeg)
 
 # Heurística 2.2.5 - Reautenticando
-Quando uma seção autenticada expira, qualquer pessoa logada deve ser capaz de continuar sua atividade, sem qualquer perda de dados, ao efetuar uma nova autenticação na aplicaçao. Aqui temos um exemplo de aplicativo do Banco Santander para simplificar o entendimento:
+Quando uma seção autenticada expira, qualquer pessoa logada deve ser capaz de continuar sua atividade, sem qualquer perda de dados, ao efetuar uma nova autenticação na aplicação. Aqui temos um exemplo de aplicativo do Banco Santander para simplificar o entendimento:
 
 ![SESSAO EXPIRADA - BANCO SANTANDER_resized](https://user-images.githubusercontent.com/72941469/204773565-f714c02a-6994-4a53-94f2-22bf97c99811.jpg)
 
