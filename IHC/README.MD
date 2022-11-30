@@ -29,7 +29,7 @@ A identificação do erro é importante para o usuário se guiar e muitas vezes 
 
 ![ERRO CHAVE PIX_resized](https://user-images.githubusercontent.com/72941469/204773728-4c7a1ac9-ea3e-48f4-9714-02e87be6fcf1.jpeg)
 
-# Heurística  3.3.6 -  Prevençao de Erros
+# Heurística  3.3.6 -  Prevençao de erros
 Ao realizar uma pesquisa no buscador do Google por exexplo, o recurso de prevenção de erros é ativado.
 Conforme o texto esta sendo digitado no campo,sao exibidos sugestões sobre o assunto pesquisado.
 
