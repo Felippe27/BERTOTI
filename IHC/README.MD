@@ -1,4 +1,3 @@
-# Felippe de Lima Luna - 1460482021083
 
 ## Avaliação Heurística | IHC (Interação Humano Computador) | 3º Semestre ADS
 
@@ -6,6 +5,8 @@ Análise heurística é uma técnica de análise de usabilidade que avalia a qua
 produto de software a partir de uma lista de heurísticas. Esta lista consiste em princípios
 gerais que ajudam a identificar problemas de usabilidade e facilidade de uso de interfaces de
 usuario.Essas heuristicas basicamente incluem:eficácia,usabilidade,controle e segurança.
+
+## Neste artigo:
 
 # Heurística 1.2.5 - Descriçao de audio (pre -gravadas) 
 A descrição de áudio ou transcrição automática é um recurso que permite que o vídeo seja acompanhado por um texto que segue o diálogo no vídeo. Isso permite que usuários comuns ou com déficit auditivo assistam o vídeo com mais facilidade mesmo sem ouvir o áudio.
@@ -28,7 +29,7 @@ A identificação do erro é importante para o usuário se guiar e muitas vezes 
 
 ![ERRO CHAVE PIX](https://user-images.githubusercontent.com/72941469/204557833-82711b31-d82b-4370-a1a6-d82dfcd791f6.jpeg)
 
-# Heurística  3.3.6 - 3.3.6 Prevenção de Erros
+# Heurística  3.3.6 -  Prevençao de Erros
 Ao realizar uma pesquisa no buscador do Google por exexplo, o recurso de prevenção de erros é ativado.
 Conforme o texto esta sendo digitado no campo,sao exibidos sugestões sobre o assunto pesquisado.
 
