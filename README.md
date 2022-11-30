@@ -1,4 +1,4 @@
 # BERTOTI
 
-Repositório dedicado para as atividades e avaliações do Profº Giuliano,da disciplina Interação Humano Computador.
+Repositório dedicado para as Atividades e Avaliações do Profº Giuliano,da disciplina Interação Humano Computador.
 
