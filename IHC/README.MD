@@ -21,16 +21,16 @@ Permita que os conteúdos sejam exibidos exibidos na tela por tempo suficiente p
 # Heurística 2.2.5 - Reautenticando
 Quando uma seção autenticada expira, qualquer pessoa logada deve ser capaz de continuar sua atividade, sem qualquer perda de dados, ao efetuar uma nova autenticação na aplicação. Aqui temos um exemplo de aplicativo do Banco Santander para simplificar o entendimento:
 
-![SESSAO EXPIRADA - BANCO SANTANDER_resized](https://user-images.githubusercontent.com/72941469/204773565-f714c02a-6994-4a53-94f2-22bf97c99811.jpg)
+<p align = center> <img src = "https://user-images.githubusercontent.com/72941469/204773565-f714c02a-6994-4a53-94f2-22bf97c99811.jpg"></p>
 
 # Heurística 3.3.1 - Identificação de erro 
 A identificação do erro é importante para o usuário se guiar e muitas vezes resolver o próprio problema ou compreender que é um erro interno, como o servidor. Um exemplo de aplicação desta heurística é o erro de Chave Pix,quando digitamos alguma letra no teclado errada ou quando a chave nao foi cadastrada pelo contato desejado para finalizar a transação.
 
 
-![ERRO CHAVE PIX_resized](https://user-images.githubusercontent.com/72941469/204773728-4c7a1ac9-ea3e-48f4-9714-02e87be6fcf1.jpeg)
+<p align = center> <img src = "https://user-images.githubusercontent.com/72941469/204773728-4c7a1ac9-ea3e-48f4-9714-02e87be6fcf1.jpeg"></p>
 
 # Heurística  3.3.6 -  Prevençao de erros
 Ao realizar uma pesquisa no buscador do Google por exemplo, o recurso de prevenção de erros é ativado.
 Conforme o texto está sendo digitado no campo,são exibidos sugestões sobre o assunto pesquisado.
 
-![PREVENÇAO DE ERROS_resized](https://user-images.githubusercontent.com/72941469/204773882-99170d9f-4f30-4343-9235-71cdd78b36fc.jpeg)
+<p align = center> <img src = "https://user-images.githubusercontent.com/72941469/204773882-99170d9f-4f30-4343-9235-71cdd78b36fc.jpeg"></p>
