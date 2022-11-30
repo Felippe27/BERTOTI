@@ -8,7 +8,7 @@ usuario.Essas heuristicas basicamente incluem:eficácia,usabilidade,controle e s
 
 ## Neste artigo:
 
-# Heurística 1.2.5 - Descriçao de audio (pre -gravadas) 
+# Heurística 1.2.5 - Descrição de audio (pre -gravadas) 
 A descrição de áudio ou transcrição automática é um recurso que permite que o vídeo seja acompanhado por um texto que segue o diálogo no vídeo. Isso permite que usuários comuns ou com déficit auditivo assistam o vídeo com mais facilidade mesmo sem ouvir o áudio.
 
 ![DESCRIÇAO DE AUDIO PRINT](https://user-images.githubusercontent.com/72941469/204556658-2c95ed33-f8d4-4984-89f0-3da945a364bb.jpg)
@@ -21,17 +21,16 @@ Permita que os conteúdos sejam exibidos exibidos na tela por tempo suficiente p
 # Heurística 2.2.5 - Reautenticando
 Quando uma seção autenticada expira, qualquer pessoa logada deve ser capaz de continuar sua atividade, sem qualquer perda de dados, ao efetuar uma nova autenticação na aplicaçao.
 
-![SESSAO EXPIRADA - BANCO SANTANDER](https://user-images.githubusercontent.com/72941469/204564329-63c5ae82-0b69-408f-8b1d-9a33de9786f7.jpg)
+![SESSAO EXPIRADA - BANCO SANTANDER_resized](https://user-images.githubusercontent.com/72941469/204773565-f714c02a-6994-4a53-94f2-22bf97c99811.jpg)
 
 # Heurística 3.3.1 - Identificação de erro 
 A identificação do erro é importante para o usuário se guiar e muitas vezes resolver o próprio problema ou compreender que é um erro interno, como o servidor. Um exemplo de aplicação desta heurística é o erro de Chave Pix,quando digitamos alguma letra no teclado errada ou quando a chave nao foi cadastrada pelo contato desejado para finalizar a transaça.
 
 
-![ERRO CHAVE PIX](https://user-images.githubusercontent.com/72941469/204557833-82711b31-d82b-4370-a1a6-d82dfcd791f6.jpeg)
+![ERRO CHAVE PIX_resized](https://user-images.githubusercontent.com/72941469/204773728-4c7a1ac9-ea3e-48f4-9714-02e87be6fcf1.jpeg)
 
 # Heurística  3.3.6 -  Prevençao de Erros
 Ao realizar uma pesquisa no buscador do Google por exexplo, o recurso de prevenção de erros é ativado.
 Conforme o texto esta sendo digitado no campo,sao exibidos sugestões sobre o assunto pesquisado.
 
-
-![PREVENÇAO DE ERROS](https://user-images.githubusercontent.com/72941469/204557604-ea95657d-f911-4be6-abb0-81fa08af0bb4.jpeg)
+![PREVENÇAO DE ERROS_resized](https://user-images.githubusercontent.com/72941469/204773882-99170d9f-4f30-4343-9235-71cdd78b36fc.jpeg)
