@@ -6,7 +6,7 @@ produto de software a partir de uma lista de heurísticas. Esta lista consiste e
 gerais que ajudam a identificar problemas de usabilidade e facilidade de uso de interfaces de
 usuario.Essas heuristicas basicamente incluem: eficácia,usabilidade,controle e segurança.
 
-# Heurística 1.2.5 - Descrição de audio (pré -gravadas) 
+# Heurística 1.2.5 - Descrição de áudio (pré -gravadas) 
 A descrição de áudio ou transcrição automática é um recurso que permite que o vídeo seja acompanhado por um texto que segue o diálogo no vídeo. Isso permite que usuários comuns ou com déficit auditivo assistam o vídeo com mais facilidade mesmo sem ouvir o áudio.
 
 ![DESCRIÇAO DE AUDIO PRINT](https://user-images.githubusercontent.com/72941469/204556658-2c95ed33-f8d4-4984-89f0-3da945a364bb.jpg)
