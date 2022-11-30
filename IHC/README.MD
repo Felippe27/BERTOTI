@@ -27,7 +27,7 @@ A identificação do erro é importante para o usuário se guiar e muitas vezes 
 
 <p align = center> <img src = "https://user-images.githubusercontent.com/72941469/204773728-4c7a1ac9-ea3e-48f4-9714-02e87be6fcf1.jpeg"></p>
 
-# Heurística  3.3.6 -  Prevençao de erros
+# Heurística  3.3.6 -  Prevenção de erros
 Ao realizar uma pesquisa no buscador do Google por exemplo, o recurso de prevenção de erros é ativado.
 Conforme o texto está sendo digitado no campo,são exibidos sugestões sobre o assunto pesquisado.
 
