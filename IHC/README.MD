@@ -2,7 +2,6 @@
 
 ## Avaliação Heurística | IHC (Interação Humano Computador) | 3º Semestre ADS
 
-## Análise heurística (WCAG/W3C)
 Análise heurística é uma técnica de análise de usabilidade que avalia a quantidade de um
 produto de software a partir de uma lista de heurísticas. Esta lista consiste em princípios
 gerais que ajudam a identificar problemas de usabilidade e facilidade de uso de interfaces de
@@ -13,7 +12,7 @@ A descrição de áudio ou transcrição automática é um recurso que permite q
 
 ![DESCRIÇAO DE AUDIO PRINT](https://user-images.githubusercontent.com/72941469/204556658-2c95ed33-f8d4-4984-89f0-3da945a364bb.jpg)
 
-# Heurística 2.2 - Tempo Limt
+# Heurística 2.2 - Tempo Limite
 Permita que os conteúdos sejam exibidos exibidos na tela por tempo suficiente para que possam ser lidos. Exemplo de uso no aplitivo VLC MEDIA PLAYER para assistir videos e filmes.
 
 ![WhatsApp Image 2022-11-29 at 11 40 00](https://user-images.githubusercontent.com/72941469/204559038-5fbbd737-6a51-465a-b238-2fe375362359.jpeg)
